@@ -1,5 +1,3 @@
-# todos_api
+# To-Do Web App
 
-This is my first app using a local IDE.
-
-If you have any constructive feedback or if you see I'm doing anything wrong or something looks weird, please don't hesitate. I'd be greatly thankful.
+Web based to-do app created using AJAX, Express, Mongo, and jQuery. Based on the JSON API section's exercise for [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/).
